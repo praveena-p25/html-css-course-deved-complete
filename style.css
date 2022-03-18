@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 1.5rem;
+
+}
+h2{
+    font-size: 2rem;
+}
+h3{
+    font-size: 1.5rem;
+    padding-top: 2rem;
+}
+a{
+    color: white;
+}
+nav{
+    background: rgb(93, 93, 134);
+    padding: 2rem ;
+    color: white;
+    
+}
+nav h1{
+    float: left;
+}
+nav ul{
+    float: right;
+    list-style: none;
+    
+}
+nav li{
+    float: left;
+    margin: 0rem 3rem;
+    }
+.clear{
+    clear: both;
+}
+.hero-form{
+    background-image: url("/img/pexels-pixabay-326268.jpg");
+    height: 70rem;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding-top: 8rem;
+    text-shadow: 3px 3px 3px black;
+}
+.hero-form button{
+    margin-top: 2rem;
+    padding: 0.5rem 2rem;
+    background-color: rgb(75, 75, 190);
+    border: none;
+    color: white;
+    cursor: pointer;
+
+}
+.contact-form{
+ text-align: center;
+}
+
+.contact-form label,.contact-form input, .contact-form textarea ,.contact-form button{
+    display: block;
+    text-align: center;
+    margin: 1rem;
+}
+
+.contact-form input, .contact-form textarea, .contact-form button{
+    margin: auto;
+    width: 50%;
+    
+
+}
+
+.contact-form button{
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    color: blue;
+    padding: 1rem 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* *{
+    font-size: 16px;
+}
+
+.nav-links >ul>li> a{
+    color: red;
+}
+
+.fig-home a{
+    color: rosybrown;
+}
+
+#fig-home{
+    color: slateblue;
+} */
